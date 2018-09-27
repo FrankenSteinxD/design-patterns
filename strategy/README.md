@@ -10,7 +10,7 @@ In this example I created an extra two different classes, `CornivoreDinosaur` an
 You can delete them and create dinosaurs from the father class `Dinosaur` directly and then set the object's eating behaviour, so
 
 ```javascript
-const cornivor = new CornivorDinosaur('Sam');
+const cornivore = new CornivoreDinosaur('Sam');
 ```
 
 is same as
