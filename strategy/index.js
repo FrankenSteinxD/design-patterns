@@ -3,6 +3,12 @@ import CarnivoreDinosaur from './CarnivoreDinosaur';
 import HerbivoreDinosaur from './HerbivoreDinosaur';
 import HerbivoreEatingBehaviour from './HerbivoreEatingBehaviour';
 
+console.log(`
+===============================
+=           Strategy          =
+===============================
+`);
+
 const dino = new Dinosaur('Velociraptor');
 dino.eat();
 

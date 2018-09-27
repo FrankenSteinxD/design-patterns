@@ -1,0 +1,2 @@
+import './strategy';
+import './observer';
