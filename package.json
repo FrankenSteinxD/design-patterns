@@ -1,0 +1,13 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "various design patterns written in javascript (ES6)",
+  "main": "none",
+  "author": "Rashad Kokash <richardeo112@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
