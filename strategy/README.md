@@ -19,3 +19,6 @@ is same as
 const dino = new Dinosaur('Sam');
 dino.setEatingBehaviour(new CornivoreEatingBehaviour());
 ```
+
+### For Practicing
+Implement a flying method, some dinosaurs can fly, some can't.
